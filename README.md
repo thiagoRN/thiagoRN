@@ -6,12 +6,14 @@
 
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoRN&show_icons=true&theme=dracula&count_private=true"/>
+  <img height=200 width=480 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoRN&show_icons=true&theme=dracula&count_private=true"/>
 </a>
+
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoRN&layout=compact&theme=dracula" />
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoRN&layout=compact&theme=dracula" />
 </a>
 <br><br>
+
 ## Tecnologias
 
 
