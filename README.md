@@ -6,7 +6,7 @@
 
 
 <a href="">
-  <img height=200 width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoRN&show_icons=true&theme=dracula&count_private=true"/>
+  <img height=200 width=470 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoRN&show_icons=true&theme=dracula&count_private=true"/>
 </a>
 
 <a href="">
